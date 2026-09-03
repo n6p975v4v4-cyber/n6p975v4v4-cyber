@@ -60,7 +60,13 @@ I contribute well-tested, production-grade solutions across diverse open-source 
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### 📊 GitHub Activity & Achievements
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=n6p975v4v4-cyber&theme=tokyonight" alt="GitHub Profile Details" width="100%" />
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=n6p975v4v4-cyber&theme=tokyonight" alt="GitHub Stats" />

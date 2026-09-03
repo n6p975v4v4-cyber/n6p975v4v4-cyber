@@ -16,7 +16,7 @@
 
 ### 🚀 Core Engineering Domains
 
-- 💻 **Full-Stack & Systems Engineering**: Architecting modular web applications, backend APIs, and developer toolchains in TypeScript, JavaScript (Node.js), and Python.
+- 💻 **Full-Stack & Systems Engineering**: Architecting modular web applications, backend APIs, low-level utilities, and developer toolchains in C, TypeScript, JavaScript (Node.js), and Python.
 - ⚙️ **Automation, Tooling & Media Pipelines**: Designing end-to-end processing pipelines, browser automation (Playwright/MCP), headless workflows, and dynamic video/media repurposing.
 - 🤖 **Autonomous AI & Multi-Agent Workflows**: Developing deterministic orchestration layers, specialized task routing, and reproducible agent evaluation frameworks.
 - 🛡️ **Cloud Infrastructure & Reliability**: Implementing secure AWS patterns (KMS, MSK, IAM), containerized environments, and upstream contributions to cloud compliance tools.
@@ -26,7 +26,7 @@
 ### 🛠️ Tech Stack & Ecosystems
 
 ```text
-Languages     :: TypeScript, JavaScript (Node.js), Python, Bash / Shell
+Languages     :: C, TypeScript, JavaScript (Node.js), Python, Bash / Shell
 Full-Stack    :: REST APIs, Web Platforms, Node Ecosystem, Microservices
 Automation    :: Playwright, FFmpeg / Media Tooling, Model Context Protocol (MCP)
 Cloud & Infra :: AWS (KMS, IAM, MSK, S3), Docker, Linux, GitHub Actions & CI/CD

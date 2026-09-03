@@ -1,13 +1,19 @@
 <div align="center">
 
 # Hi there, I'm Jesse 👋
-### Cloud & Application Engineer • Multi-Agent Architect • OSS Contributor
 
-[![GitHub followers](https://img.shields.io/github/followers/n6p975v4v4-cyber?style=flat-square&color=2ea44f)](https://github.com/n6p975v4v4-cyber)
-[![GitHub PRs](https://img.shields.io/badge/Open_Source-Active_Contributor-blue?style=flat-square)](https://github.com/n6p975v4v4-cyber)
+<!-- Animated Dynamic Typing Banner -->
+<a href="https://github.com/n6p975v4v4-cyber">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2EA44F&center=true&vCenter=true&width=650&lines=Cloud+%26+Application+Engineer;Multi-Agent+AI+Systems+Architect;Defensive+Security+Researcher;Open+Source+Contributor" alt="Typing SVG" />
+</a>
 
 <p align="center">
-  Building full-lifecycle software solutions: full-stack systems, automated pipelines, cloud infrastructure, and autonomous agent orchestration.
+  <a href="https://github.com/n6p975v4v4-cyber"><img src="https://img.shields.io/github/followers/n6p975v4v4-cyber?style=for-the-badge&color=2ea44f&labelColor=161b22&logo=github" alt="Followers" /></a>
+  <a href="https://github.com/n6p975v4v4-cyber"><img src="https://img.shields.io/badge/Open_Source-Active_Contributor-388bfd?style=for-the-badge&labelColor=161b22&logo=git" alt="OSS Contributor" /></a>
+</p>
+
+<p align="center">
+  <i>Building full-lifecycle software solutions: full-stack systems, automated pipelines, cloud infrastructure, and autonomous agent orchestration.</i>
 </p>
 
 </div>
@@ -16,23 +22,32 @@
 
 ### 🚀 Core Engineering Domains
 
-- 💻 **Full-Stack & Systems Engineering**: Architecting modular web applications, backend APIs, low-level utilities, and developer toolchains in C, TypeScript, JavaScript (Node.js), and Python.
-- ⚙️ **Automation, Tooling & Media Pipelines**: Designing end-to-end processing pipelines, browser automation (Playwright/MCP), headless workflows, and dynamic video/media repurposing.
-- 🤖 **Autonomous AI & Multi-Agent Workflows**: Developing deterministic orchestration layers, specialized task routing, and reproducible agent evaluation frameworks.
-- 🛡️ **Cloud Infrastructure & Reliability**: Implementing secure AWS patterns (KMS, MSK, IAM), containerized environments, and upstream contributions to cloud compliance tools.
-- 🔒 **Security Research & Defensive Hardening**: Applying proactive vulnerability assessment, threat modeling, and defensive validation to identify design flaws and secure distributed systems.
+- 💻 **Full-Stack & Systems Engineering**: Modular web applications, backend APIs, low-level utilities, and developer toolchains in C, TypeScript, Node.js, and Python.
+- ⚙️ **Automation, Tooling & Media Pipelines**: Headless browser automation (Playwright/MCP), media processing (FFmpeg), and automated developer workflows.
+- 🤖 **Autonomous AI & Multi-Agent Workflows**: Deterministic orchestration layers, specialized task routing, and reproducible evaluation benchmarks.
+- 🛡️ **Cloud Infrastructure & Reliability**: Secure AWS architectures (KMS, MSK, IAM), containerized environments, and cloud compliance engineering.
+- 🔒 **Security Research & Defensive Hardening**: Proactive vulnerability assessment, threat modeling, and defensive validation across distributed systems.
 
 ---
 
 ### 🛠️ Tech Stack & Ecosystems
 
-```text
-Languages     :: C, TypeScript, JavaScript (Node.js), Python, Bash / Shell
-Full-Stack    :: REST APIs, Web Platforms, Node Ecosystem, Microservices
-Automation    :: Playwright, FFmpeg / Media Tooling, Model Context Protocol (MCP)
-Cloud & Infra :: AWS (KMS, IAM, MSK, S3), Docker, Linux, GitHub Actions & CI/CD
-Security & QA :: Threat Modeling, Vulnerability Analysis, Pytest, Moto, SAST
-```
+<p align="left">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+  <br/>
+  <!-- Cloud & Automation -->
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" alt="FFmpeg" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+</p>
 
 ---
 
@@ -42,6 +57,15 @@ I contribute well-tested, production-grade solutions across diverse open-source 
 - **[prowler-cloud/prowler](https://github.com/prowler-cloud/prowler)** — AWS KMS scan error propagation & unretrieved key detail handling.
 - **[career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops)** — Multi-tier configuration resolution, CLI doctor tooling & Playwright MCP integration.
 - **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** — Toolchain and workflow automation.
+
+---
+
+### 📊 GitHub Activity & Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=n6p975v4v4-cyber&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n6p975v4v4-cyber&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" height="165"/>
+</div>
 
 ---
 
